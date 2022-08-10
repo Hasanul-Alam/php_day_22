@@ -12,6 +12,9 @@ if(isset($_GET['page'])){
     elseif ($_GET['page'] == 'sum-of-series'){
         include 'pages/series-sum.php';
     }
+    elseif ($_GET['page'] == 'registration'){
+        include 'pages/registration.php';
+    }
 }
 
 elseif (isset($_POST['series_btn'])){

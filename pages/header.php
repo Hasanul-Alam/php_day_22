@@ -18,6 +18,7 @@
             <li><a href="action.php?page=home" class="nav-link">Home</a></li>
             <li><a href="action.php?page=odd-even" class="nav-link">Odd Even Series</a></li>
             <li><a href="action.php?page=sum-of-series" class="nav-link">Sum Of Series</a></li>
+            <li><a href="action.php?page=registration" class="nav-link">Registration</a></li>
         </ul>
     </div>
 </nav>
